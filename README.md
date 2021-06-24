@@ -1,17 +1,5 @@
+#### Login Script
 
-#include <iostream>
-#include <vector>
-#include <string>
+----
 
-using namespace std;
-
-int main()
-{
-   vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
-
-   for (const string& word : msg)
-   {
-      cout << word << " ";
-   }
-   cout << endl;
-}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refer to the [**Devcloud Access Instructions**](https://github.com/intel/FPGA-Devcloud/tree/feature/main/Devcloud_Access_Instructions#52-login-script) for more information on the Login Script.
